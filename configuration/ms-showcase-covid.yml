@@ -10,6 +10,6 @@ logging:
 spring:
    data:
    mongodb:
-     user: ms-covid
-     password: mscovid
+     #user: ms-covid
+     #password: mscovid
      uri: mongodb://localhost:27017/ms-TODO
